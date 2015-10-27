@@ -1,6 +1,6 @@
 # [Brooks Prumo](http://www.linkedin.com/in/brooksprumo)
 
-_contact information intentially removed_
+_contact information intentionally removed_
 
 ## INTERESTS
 
