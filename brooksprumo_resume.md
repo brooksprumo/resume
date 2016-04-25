@@ -18,7 +18,11 @@ _Austin, TX_
 
 _March 2010 - Present_
 
-- TODO
+- Synchronization patent for Massive MIMO
+- Port niflexrio to Linux
+- FPGA development
+- Kernel drivers (zero bugs!)
+- RF sample projects
 
 ## EDUCATION
 
@@ -86,21 +90,13 @@ _May – August 2005_
 - Extensive work with web-based coding and SQL server coding, design, application and implementation.
 
 
-## PAPERS and PUBLICATIONS
+## PAPERS, PUBLICATIONS, and PATENTS
 
 - [Double-DIP: Augmenting DIP with Adaptive Promotion Policies to Manage Shared L2 Caches](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.140.1842)
-	- Jonathan D. Kron, Brooks Prumo, Gabriel H. Loh
+	- Jonathan D. Kron, **Brooks Prumo**, Gabriel H. Loh
 	- In the 2nd Workshop on Chip Multiprocessor Memory Systems and Interconnects (CMP-MSI), June 22, 2008, Beijing, China. (Held in conjunction with ISCA-35.)
-
-
-## SKILLS
-
-- C and C++ programming through significant use of CPU simulators (SimpleScalar, Zesto, PTLSim), back-end compilers (Trimaran), virtual machines/dynamic compilers (LLVM), and operating systems concepts (threading, inter-process communication, remote procedures).
-- Perl, bash, and Makefile scripting to build, verify, run, and do performance analysis.
-- Verilog, OpenGL, Processing, OpenMP, CUDA, and Objective-C programming experience.
-- Synopsis Virtuoso, Synopsis Design Compiler, Synopsis VCS, and SoC Encounter working experience.
-- Cisco routers/switches installation, configuration, management, and Cisco IOS.
-- Linux/Unix, Apache httpd, PostgreSQL, Microsoft Windows, Mac OS X, Xcode and Cocoa.
+- [Synchronization of Large Antenna Count Systems](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2015171956)
+	- Ian Wong, Karl Nieman, Nikhil Kundargi, **Brooks Prumo**
 
 
 ## LEADERSHIP
@@ -129,7 +125,7 @@ _May – August 2005_
 
 ## OTHER ACTIVITIES
 
-- Swing [dancing](http://github.com/brooksprumo/bios/blob/master/dancer.md), [DJing](http://github.com/brooksprumo/bios/blob/master/dj.md), and [guitar playing](http://github.com/brooksprumo/bios/blob/master/musician.md)
+- Swing [dancing](http://github.com/brooksprumo/bios/blob/master/dancer.md), [DJing](http://github.com/brooksprumo/bios/blob/master/dj.md), and [guitar](http://github.com/brooksprumo/bios/blob/master/musician.md)
 - Rock climbing
 - Ice hockey
 - Downhill skiing
