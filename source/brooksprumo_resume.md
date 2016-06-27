@@ -7,7 +7,7 @@ _contact information intentionally removed_
 - [Software-defined radio](http://en.wikipedia.org/wiki/Software-defined_radio) & RF
 - [Computer architecture](http://en.wikipedia.org/wiki/Computer_architecture)
 - Compilers & virtual machines
-- [High-performance computing](http://insidehpc.com/hpc-basic-training/what-is-hpc/), [GPGPU](http://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units), &  FPGAs
+- [High-performance computing](http://insidehpc.com/hpc-basic-training/what-is-hpc/), [GPGPU](http://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units), & FPGAs
 - [Systems programming](http://en.wikipedia.org/wiki/System_programming)
 
 ## WORK EXPERIENCE
@@ -18,11 +18,13 @@ _Austin, TX_
 
 _March 2010 - Present_
 
-- Synchronization patent for Massive MIMO
-- Port niflexrio to Linux
-- FPGA development
-- Kernel drivers (zero bugs!)
-- RF sample projects
+- Wrote full software stack to support [USRP RIO](http://www.ni.com/sdr/usrp-rio/) in [LabVIEW FPGA](http://www.ni.com/labview/fpga/). This includes the kernel driver (for Windows and Linux), a user-mode shared library, the LabVIEW device configuration library, and sample projects for users to customize.
+- Designed and implemented multi-device synchronization algorithms that would be used with the USRP RIO to enable and patent [Massive MIMO](http://www.ni.com/rf/5g/) research (100+ antenna systems).
+- Developed FPGA applications and libraries for RF, synchronization, and high data throughput in LabVIEW FPGA.
+- Lead team through multiple releases across multiple versions of LabVIEW and operating systems.
+- Member of cross-group RF Architectures team on synchronization.
+- Wrote content for high-throughput training in LabVIEW FPGA.
+- Ported an NI device library from Windows to Linux that enabled sales to a large customer.
 
 ## EDUCATION
 
@@ -97,18 +99,6 @@ _May – August 2005_
 	- In the 2nd Workshop on Chip Multiprocessor Memory Systems and Interconnects (CMP-MSI), June 22, 2008, Beijing, China. (Held in conjunction with ISCA-35.)
 - [Synchronization of Large Antenna Count Systems](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2015171956)
 	- Ian Wong, Karl Nieman, Nikhil Kundargi, **Brooks Prumo**
-
-
-## LEADERSHIP
-
-- Teaching Assistant
-	- _Fall 2007 – Spring 2008_
-- Lambda Chi Alpha Fraternity – Systems administrator
-	- _Fall 2004 – Spring 2007_
-- Vice President of Rensselaer Sports Car Association (RSCA)
-	- _Fall 2004 – Fall 2006_
-- Co-founder and Vice President of RPI Swing Dance Club
-	- _Fall 2006 – Spring 2007_
 
 
 ## HONORS, AWARDS, ACHIEVEMENTS

@@ -1,0 +1,3 @@
+a[href]:after { content : "" }
+
+body { font-size: 50%; }
