@@ -18,7 +18,7 @@ _Austin, TX_
 
 _March 2010 - Present_
 
-- Wrote full software stack to support [USRP RIO](http://www.ni.com/sdr/usrp-rio/) in [LabVIEW FPGA](http://www.ni.com/labview/fpga/). This includes the kernel driver (for Windows and Linux), a user-mode shared library, the LabVIEW device configuration library, and sample projects for users to customize.
+- Wrote full software stack to support [USRP RIO](http://www.ni.com/sdr/usrp-rio/) in [LabVIEW FPGA](http://www.ni.com/labview/fpga/). This includes the kernel driver (for Windows and Linux) in C++, a user-mode shared library in C++, the LabVIEW device configuration library, and LabVIEW sample projects for users to customize.
 - Designed and implemented multi-device synchronization algorithms that would be used with the USRP RIO to enable and patent [Massive MIMO](http://www.ni.com/rf/5g/) research (100+ antenna systems).
 - Developed FPGA applications and libraries for RF, synchronization, and high data throughput in LabVIEW FPGA.
 - Lead team through multiple releases across multiple versions of LabVIEW and operating systems.
@@ -36,8 +36,8 @@ _August 2007 - May 2009_
 
 - MS in Computer Science with a concentration in Computer Architecture
 - Cumulative GPA: 3.71/4.00
-- Research on 3D DRAM, integrated DRAM-on-chip, and multi-core cache insertion/promotion policies. Resulted in an ISCA workshop (CMP-MSI) publication on multi-core caching policies (see below). Implemented design in Zesto, a modern multi-core SimpleScalar based x86 simulator, for evaluation.
-- Research on low-power dynamic compilation. Created a power optimization for LLVM that executed binaries and dynamically optimized them for low-power functional unit power gating. Evaluated design with a modified PTLSim, an x86 simulator
+- Research on 3D DRAM, integrated DRAM-on-chip, and multi-core cache insertion/promotion policies. Resulted in an ISCA workshop (CMP-MSI) publication on multi-core caching policies (see below). Implemented design in Zesto, a modern multi-core SimpleScalar based x86 simulator written in C++, for evaluation.
+- Research on low-power dynamic compilation. Created a power optimization for LLVM, written in C++, that executed binaries and dynamically optimized them for low-power functional unit power gating. Evaluated design with a modified PTLSim, an x86 simulator
 - High performance computing and multi-threaded development with C/C++, pthreads, OpenMP, and CUDA. Projects involved shared memory programming, message passing, GPGPU programming, various forms of interprocess communication and remote procedure calls, and simulator development.
 
 ### [Rensselaer Polytechnic Institute](http://www.rpi.edu)
