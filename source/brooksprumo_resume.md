@@ -16,13 +16,28 @@ _contact information intentionally removed_
 
 _Austin, TX_
 
-_March 2010 - Present_
+#### Senior Software Engineer
 
-- Wrote full software stack to support [USRP RIO](http://www.ni.com/sdr/usrp-rio/) in [LabVIEW FPGA](http://www.ni.com/labview/fpga/). This includes the kernel driver (for Windows and Linux) in C++, a user-mode shared library in C++, the LabVIEW device configuration library, and LabVIEW sample projects for users to customize.
-- Designed and implemented multi-device synchronization algorithms that would be used with the USRP RIO to enable and patent [Massive MIMO](http://www.ni.com/rf/5g/) research (100+ antenna systems).
-- Developed FPGA applications and libraries for RF, synchronization, and high data throughput in LabVIEW FPGA.
+_February 2015 - Present_
+
+- Lead team to add support for new USRP hardware in LabVIEW.
+- Developed drivers and applications for Massive MIMO, 5G, and WiFi research in C++ and LabVIEW.
+- Emphasized user experience, API design, TDD, and maintainable software.
 - Lead team through multiple releases across multiple versions of LabVIEW and operating systems.
 - Member of cross-group RF Architectures team on synchronization.
+
+#### Staff Software Engineer
+
+_2012 - February 2015_
+
+- Designed and implemented multi-device synchronization algorithms that would be used with the USRP RIO to enable and patent [Massive MIMO](http://www.ni.com/rf/5g/) research (100+ antenna systems).
+- Wrote full software stack to support [USRP RIO](http://www.ni.com/sdr/usrp-rio/) in [LabVIEW FPGA](http://www.ni.com/labview/fpga/). This includes the kernel driver (for Windows and Linux) in C++, a user-mode shared library in C++, the LabVIEW device configuration library on the host and FPGA, and LabVIEW sample projects for users to customize.
+- Developed FPGA applications and libraries for RF, signal-based synchronization, time-based synchronization, and high data throughput in LabVIEW FPGA.
+
+#### Software Engineer
+
+_March 2010 - 2012_
+
 - Wrote content for high-throughput training in LabVIEW FPGA.
 - Ported an NI device library from Windows to Linux that enabled sales to a large customer.
 
