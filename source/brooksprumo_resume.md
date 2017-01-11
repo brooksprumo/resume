@@ -12,13 +12,21 @@ _contact information intentionally removed_
 
 ## WORK EXPERIENCE
 
+### [Pegasus Solutions](http://www.pegs.com)
+
+_Austin, TX_
+
+_November 2016 - Present_
+
+- Migrate primary business logic from pre-standard C built on 32-bit Solaris to POSIX-compliant C99 built on Linux
+
 ### [National Instruments](http://www.ni.com)
 
 _Austin, TX_
 
 #### Senior Software Engineer
 
-_February 2015 - Present_
+_February 2015 - November 2016_
 
 - Lead team to add support for new USRP hardware in LabVIEW.
 - Developed drivers and applications for Massive MIMO, 5G, and WiFi research in C++ and LabVIEW.
@@ -65,7 +73,6 @@ _August 2003 - May 2007_
 - Minor in Electronic Arts
 - Cumulative GPA: 3.76/4.00
 
-
 ## INTERNSHIPS
 
 ### [Rambus](http://www.rambus.com)
@@ -106,7 +113,6 @@ _May – August 2005_
 - Position in the IMLP (Information Management Leadership Program).
 - Extensive work with web-based coding and SQL server coding, design, application and implementation.
 
-
 ## PAPERS, PUBLICATIONS, and PATENTS
 
 - [Double-DIP: Augmenting DIP with Adaptive Promotion Policies to Manage Shared L2 Caches](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.140.1842)
@@ -114,7 +120,7 @@ _May – August 2005_
 	- In the 2nd Workshop on Chip Multiprocessor Memory Systems and Interconnects (CMP-MSI), June 22, 2008, Beijing, China. (Held in conjunction with ISCA-35.)
 - [Synchronization of Large Antenna Count Systems](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2015171956)
 	- Ian Wong, Karl Nieman, Nikhil Kundargi, **Brooks Prumo**
-
+	- Patent number 14/703,262
 
 ## HONORS, AWARDS, ACHIEVEMENTS
 
@@ -127,10 +133,9 @@ _May – August 2005_
 - RPI Dean’s List all semesters
 - Michelson-Morley Award (achievement in math and science from CWRU).
 
-
 ## OTHER ACTIVITIES
 
-- Swing [dancing](http://github.com/brooksprumo/bios/blob/master/dancer.md), [DJing](http://github.com/brooksprumo/bios/blob/master/dj.md), and [guitar](http://github.com/brooksprumo/bios/blob/master/musician.md)
+- Swing [dancing](http://www.prumotion.com/bios/dancer.html), [DJing](http://www.prumotion.com/bios/dj.html), and [guitar](http://www.prumotion.com/bios/musician.html)
 - Rock climbing
 - Ice hockey
 - Downhill skiing
