@@ -18,7 +18,7 @@ _Austin, TX_
 
 _November 2016 - Present_
 
-- Migrate primary business logic from pre-standard C built on 32-bit Solaris to POSIX-compliant C99 built on Linux
+- Port primary business logic from 32-bit K&R C built on Solairs to 64-bit ANSI C99 build on Linux
 
 ### [National Instruments](http://www.ni.com)
 
@@ -115,12 +115,12 @@ _May – August 2005_
 
 ## PAPERS, PUBLICATIONS, and PATENTS
 
-- [Double-DIP: Augmenting DIP with Adaptive Promotion Policies to Manage Shared L2 Caches](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.140.1842)
-	- Jonathan D. Kron, **Brooks Prumo**, Gabriel H. Loh
-	- In the 2nd Workshop on Chip Multiprocessor Memory Systems and Interconnects (CMP-MSI), June 22, 2008, Beijing, China. (Held in conjunction with ISCA-35.)
 - [Synchronization of Large Antenna Count Systems](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2015171956)
 	- Ian Wong, Karl Nieman, Nikhil Kundargi, **Brooks Prumo**
 	- Patent number 14/703,262
+- [Double-DIP: Augmenting DIP with Adaptive Promotion Policies to Manage Shared L2 Caches](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.140.1842)
+	- Jonathan D. Kron, **Brooks Prumo**, Gabriel H. Loh
+	- In the 2nd Workshop on Chip Multiprocessor Memory Systems and Interconnects (CMP-MSI), June 22, 2008, Beijing, China. (Held in conjunction with ISCA-35.)
 
 ## HONORS, AWARDS, ACHIEVEMENTS
 
