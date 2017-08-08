@@ -18,7 +18,7 @@ _Austin, TX_
 
 _November 2016 - Present_
 
-- Port primary business logic from 32-bit K&R C built on Solairs to 64-bit ANSI C99 build on Linux
+- Port primary business logic (greater than 2 million lines of code) from 32-bit K&R C built on Solairs to 64-bit ANSI C99 built on Linux
 
 ### [National Instruments](http://www.ni.com)
 
@@ -48,6 +48,13 @@ _March 2010 - 2012_
 
 - Wrote content for high-throughput training in LabVIEW FPGA.
 - Ported an NI device library from Windows to Linux that enabled sales to a large customer.
+
+## TECHNOLOGY EXPERIENCE
+
+- Fluent in C++ and C, remedial in Python and Perl, interested in Go and Rust
+- TDD (test-driven development) enthusiast
+- Git evangelist
+- grep/find/xargs devotee
 
 ## EDUCATION
 
