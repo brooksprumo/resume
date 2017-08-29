@@ -4,11 +4,11 @@ _contact information intentionally removed_
 
 ## INTERESTS
 
-- [Software-defined radio](http://en.wikipedia.org/wiki/Software-defined_radio) & RF
 - [Computer architecture](http://en.wikipedia.org/wiki/Computer_architecture)
 - Compilers & virtual machines
 - [High-performance computing](http://insidehpc.com/hpc-basic-training/what-is-hpc/), [GPGPU](http://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units), & FPGAs
 - [Systems programming](http://en.wikipedia.org/wiki/System_programming)
+- [Software-defined radio](http://en.wikipedia.org/wiki/Software-defined_radio) & RF
 
 ## WORK EXPERIENCE
 
@@ -18,7 +18,7 @@ _Austin, TX_
 
 _November 2016 - Present_
 
-- Port primary business logic (greater than 2 million lines of code) from 32-bit K&R C built on Solairs to 64-bit ANSI C99 built on Linux
+- Port primary business logic (greater than 2 million lines of code) from 32-bit K&R C built on Solairs to 64-bit ANSI C99 built on Linux.
 
 ### [National Instruments](http://www.ni.com)
 
@@ -47,7 +47,7 @@ _2012 - February 2015_
 _March 2010 - 2012_
 
 - Wrote content for high-throughput training in LabVIEW FPGA.
-- Ported an NI device library from Windows to Linux that enabled sales to a large customer.
+- Ported NI FlexRIO device library from Windows to Linux that enabled sales to a large customer.
 
 ## TECHNOLOGY EXPERIENCE
 
@@ -55,6 +55,7 @@ _March 2010 - 2012_
 - TDD (test-driven development) enthusiast
 - Git evangelist
 - grep/find/xargs devotee
+- Well-versed in LabVIEW and LabVIEW FPGA
 
 ## EDUCATION
 
@@ -80,46 +81,6 @@ _August 2003 - May 2007_
 - Minor in Electronic Arts
 - Cumulative GPA: 3.76/4.00
 
-## INTERNSHIPS
-
-### [Rambus](http://www.rambus.com)
-
-_Los Altos, CA_
-
-_May – August 2008_
-
-- Engineering position in the Architecture group working on performance analysis for the Flash project.
-- Architected, evaluated, and quantified the applicability of a multi-level Flash + DRAM main memory module by creating a trace-driven memory simulator written in C++.
-- Brought in and used Intel's [PIN](http://software.intel.com/en-us/articles/pintool), [MineBench](http://cucis.ece.northwestern.edu/projects/DMS/MineBench.html), and [PARSEC](http://parsec.cs.princeton.edu/) to perform instrumentation on data-mining apps.
-
-### [Cisco Systems](http://www.cisco.com)
-
-_San Jose, CA_
-
-_May – August 2007_
-
-- Part of the Cisco Packet Processor group, which is responsible for designing the router processors.
-- Designed and created a system to store results of design verification regressions into an SQL database using Perl. Included a web front-end to visually correlate data and increase verification engineers' productivity.
-
-### [Cisco Systems](http://www.cisco.com)
-
-_Boxborough, MA_
-
-_May – August 2006_
-
-- VoIP Engineer on the CallManager and Unified Contact Center solutions.
-- Decreased time to market by enabling system testing of an Enterprise Cisco IP Contact Center.
-- Setup and configured an Enterprise IPCC system (60 servers, 18 routers/switches, 12+ VoIP phones).
-
-### [General Electric](http://www.ge.com)
-
-_Erie, PA_
-
-_May – August 2005_
-
-- Position in the IMLP (Information Management Leadership Program).
-- Extensive work with web-based coding and SQL server coding, design, application and implementation.
-
 ## PAPERS, PUBLICATIONS, and PATENTS
 
 - [Synchronization of Large Antenna Count Systems](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2015171956)
@@ -138,7 +99,7 @@ _May – August 2005_
 - CCNA (Cisco Certified Network Associate)
 - RPI Medal winner
 - RPI Dean’s List all semesters
-- Michelson-Morley Award (achievement in math and science from CWRU).
+- Michelson-Morley Award (achievement in math and science from CWRU)
 
 ## OTHER ACTIVITIES
 
