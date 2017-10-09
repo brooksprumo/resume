@@ -12,7 +12,7 @@ _contact information intentionally removed_
 
 ## WORK EXPERIENCE
 
-### [Pegasus Solutions](http://www.pegs.com)
+### [Pegasus Solutions](http://www.pegasus.io)
 
 _Austin, TX_
 
