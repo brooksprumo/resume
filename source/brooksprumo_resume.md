@@ -18,7 +18,8 @@ _Austin, TX_
 
 _November 2016 - Present_
 
-- Port primary business logic (greater than 2 million lines of code) from 32-bit K&R C built on Solairs to 64-bit ANSI C99 built on Linux.
+- Designed and implemented shared memory manager for multiprocess business logic to handle configuration, creation, attachment, and removal of shared memory.
+- Ported primary business logic (greater than 2 million lines of code) from 32-bit K&R C built on Solairs to 64-bit ANSI C99 built on Linux.
 
 ### [National Instruments](http://www.ni.com)
 
