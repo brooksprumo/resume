@@ -18,8 +18,9 @@ _Austin, TX_
 
 _November 2016 - Present_
 
-- Designed and implemented shared memory manager for multiprocess business logic to handle configuration, creation, attachment, and removal of shared memory.
-- Ported primary business logic (greater than 2 million lines of code) from 32-bit K&R C built on Solairs to 64-bit ANSI C99 built on Linux.
+- Improved availability, and significantly increased maximum usable hotel chain data after I:
+	- Designed and implemented a shared memory manager for multiprocess business logic to handle configuration, creation, attachment, and removal of shared memory.
+	- Ported primary business logic (greater than 2 million lines of code) from 32-bit K&R C to 64-bit ANSI C.
 
 ### [National Instruments](http://www.ni.com)
 
@@ -39,7 +40,7 @@ _February 2015 - November 2016_
 
 _2012 - February 2015_
 
-- Designed and implemented multi-device synchronization algorithms that would be used with the USRP RIO to enable and patent [Massive MIMO](http://www.ni.com/rf/5g/) research (100+ antenna systems).
+- Designed and implemented multi-device synchronization algorithms that was used with the USRP RIO to enable and patent [Massive MIMO](http://www.ni.com/rf/5g/) research (100+ antenna systems).
 - Wrote full software stack to support [USRP RIO](http://www.ni.com/sdr/usrp-rio/) in [LabVIEW FPGA](http://www.ni.com/labview/fpga/). This includes the kernel driver (for Windows and Linux) in C++, a user-mode shared library in C++, the LabVIEW device configuration library on the host and FPGA, and LabVIEW sample projects for users to customize.
 - Developed FPGA applications and libraries for RF, signal-based synchronization, time-based synchronization, and high data throughput in LabVIEW FPGA.
 
