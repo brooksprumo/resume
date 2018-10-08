@@ -2,25 +2,24 @@
 
 _contact information intentionally removed_
 
-## INTERESTS
-
-- [Computer architecture](http://en.wikipedia.org/wiki/Computer_architecture)
-- Compilers & virtual machines
-- [High-performance computing](http://insidehpc.com/hpc-basic-training/what-is-hpc/), [GPGPU](http://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units), & FPGAs
-- [Systems programming](http://en.wikipedia.org/wiki/System_programming)
-- [Software-defined radio](http://en.wikipedia.org/wiki/Software-defined_radio) & RF
+I am focused on the user for the problems I am solving.  I am passionate about generic progamming and simplicity.  I thrive when I own and drive research, design, implementation, and testing to completion.  This enables me to do what I do best: write maintainable, testable, correct, and performant software that actually solves problems.
 
 ## WORK EXPERIENCE
 
 ### [Pegasus Solutions](http://www.pegasus.io)
 
-_Austin, TX_
+_Austin and San Antonio, TX_
+
+#### Senior Software Engineer
 
 _November 2016 - Present_
 
-- Improved availability, and significantly increased maximum usable hotel chain data after I:
-	- Designed and implemented a shared memory manager for multiprocess business logic to handle configuration, creation, attachment, and removal of shared memory.
-	- Ported primary business logic (greater than 2 million lines of code) from 32-bit K&R C to 64-bit ANSI C.
+Pegasus Solutions pays outage fees when its hotel reservation system experiences downtime, and the system was crashing more often as hotel data grew.  The sytem was writen in 32-bit pre-standard K&R C and was experiencing memory exhaustion.
+
+- I ported the system (2+ million lines of code) to 64-bit ANSI C
+- I designed and implemented a shared memory manager to handle multiprocess shared memory configuration, creation, attachment, and removal.
+
+As a result, the reservation system is simpler and less buggy to configure and run.  The memory exhaustion is gone, and Pegasus hasn't paid a fee for it since.  I improved availability, and significantly increased maximum usable hotel chain data that saved Pegasus money by not having to pay outage fees or buy more storage.
 
 ### [National Instruments](http://www.ni.com)
 
@@ -30,26 +29,40 @@ _Austin, TX_
 
 _February 2015 - November 2016_
 
-- Lead team to add support for new USRP hardware in LabVIEW.
-- Developed drivers and applications for Massive MIMO, 5G, and WiFi research in C++ and LabVIEW.
-- Emphasized user experience, API design, TDD, and maintainable software.
-- Lead team through multiple releases across multiple versions of LabVIEW and operating systems.
-- Member of cross-group RF Architectures team on synchronization.
+Due to the success of USRP, the group was expanded.  The former lead engineer was moved over to a different RF group.  The USRP group needed an engineer to lead it through new LabVIEW releases, different operating system support, and cross-product integration.
+
+- I became the leader software engineer for the group
+- I lead my team by emphasizing the user experience, API design, test-driven development, and writing maintainable software
+- I wrote more drivers and applications for Massive MIMO/5g and WiFi research in C++ and LabVIEW
+- I became a member of the cross-product group on RF architectures and synchronization
+
+We shipped well-tested support for multiple LabVIEW versions and operating systems.  Our sample projects and example code evolved to look more similar to sample projects and example code from other groups/products, which helped customers be more successful. Lastly, I made sure the USRP requirements were always known as future LabVIEW versions were being designed and as future RF hardware was being planned.
 
 #### Staff Software Engineer
 
 _2012 - February 2015_
 
-- Designed and implemented multi-device synchronization algorithms that was used with the USRP RIO to enable and patent [Massive MIMO](http://www.ni.com/rf/5g/) research (100+ antenna systems).
-- Wrote full software stack to support [USRP RIO](http://www.ni.com/sdr/usrp-rio/) in [LabVIEW FPGA](http://www.ni.com/labview/fpga/). This includes the kernel driver (for Windows and Linux) in C++, a user-mode shared library in C++, the LabVIEW device configuration library on the host and FPGA, and LabVIEW sample projects for users to customize.
-- Developed FPGA applications and libraries for RF, signal-based synchronization, time-based synchronization, and high data throughput in LabVIEW FPGA.
+NI was creating a new hardware product ([USRP RIO](http://www.ni.com/sdr/usrp-rio/)) for [software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio), targeting 5g research and next-gen WiFi.  However, there wasn't software support, nor was there multi-device synchronization, which was required for [Massive MIMO](http://www.ni.com/rf/5g/)/5g research.
+
+- I wrote the full software stack to support USRP RIO in [LabVIEW FPGA](http://www.ni.com/labview/fpga/).  This included a kernel driver (for Windows and Linux) in C++, a user-mode shared library in C++, the LabVIEW device configuration library for both the host and the FPGA, and LabVIEW sample projects for users to get started and customize.
+- I developed FPGA applications and libraries for RF, multi-device signal-based synchronization and time-based synchronization, and high data throughput in LabVIEW FPGA.
+
+As a result:
+
+- My synchronization library enabled the USRP RIO sale into the first 100+ channel system capable of 5g research, which also got me a patent!
+- The driver stack has had zero reported crashes in the field.
+- My sample projects were extensively used to support sales to multi channel SDR customers, which required both multi-device synchronization and example code.
 
 #### Software Engineer
 
 _March 2010 - 2012_
 
-- Wrote content for high-throughput training in LabVIEW FPGA.
-- Ported NI FlexRIO device library from Windows to Linux that enabled sales to a large customer.
+I started in the FlexRIO driver group, which supported the new high performance FlexRIO hardware.  Unlike other NI hardware, FlexRIO was only supported on Windows, and it did not have any example code for end users.  It was just a blank slate.  This made it very hard for existing customers unfamiliar with FlexRIO to be successful.  And for those that were, they could not port their code to non-Windows systems.
+
+- I ported the FlexRIO driver to Linux
+- I wrote training material for FlexRIO, and its programming environment: LabVIEW FPGA
+
+This enabled sales to a large customer for the Linux system, and also helped other customers be successful starting with FlexRIO.
 
 ## TECHNOLOGY EXPERIENCE
 
