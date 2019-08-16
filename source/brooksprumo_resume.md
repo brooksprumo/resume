@@ -21,6 +21,8 @@ Pegasus Solutions pays outage fees when its hotel reservation system experiences
 
 As a result, the reservation system is simpler and less buggy to configure and run.  The memory exhaustion is gone, and Pegasus hasn't paid a fee for it since.  I improved availability, and significantly increased maximum usable hotel chain data that saved Pegasus money by not having to pay outage fees or buy more storage.
 
+Additionally I've updated the password management for both the C and Java-based reservation systems to comply with updated PCI data security requirements.  This includes proper cryptographic hashing, database storage/retrieval, session timeouts, password expiration, and brute force login/DOS attacks.
+
 ### [National Instruments](http://www.ni.com)
 
 _Austin, TX_
