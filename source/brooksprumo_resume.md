@@ -66,7 +66,7 @@ This enabled sales to a large customer for the Linux system, and also helped oth
 
 ## TECHNOLOGY EXPERIENCE
 
-- Fluent in C++ and C, remedial in Python and Perl, interested in Go and Rust
+- Fluent in C++ and C, intermediate in Java, Python and Perl, interested in Go and Rust
 - TDD (test-driven development) enthusiast
 - Git evangelist
 - grep/find/xargs devotee
