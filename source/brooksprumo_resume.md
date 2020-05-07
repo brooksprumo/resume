@@ -6,13 +6,29 @@ I am focused on the user for the problems I am solving.  I am passionate about g
 
 ## WORK EXPERIENCE
 
+### [WellAware](http://wellaware.us)
+
+_San Antonio, TX_
+
+#### Senior Firmware Software Engineer
+
+_November 2019 - Present_
+
+I write embedded firmware for Industrial IoT applications in C and C++ on Arm Mbed and Zephyr RTOS platforms.  High performance to both save battery life, and catch important events are paramount to my applications.
+
+I write...
+- Drivers to interact with on-board sensors and acquire relevant data
+- Bluetooth and BLE code to commumicate with other IoT devices and mobile apps
+- Platform libraries and APIs to facilitate building other embedded firmware apps quickly and correctly
+- Messaging logic for Cellular, TCP/IP, TLS, and MQTT backhaul to our cloud platform
+
 ### [Pegasus Solutions](http://www.pegasus.io)
 
 _Austin and San Antonio, TX_
 
 #### Senior Software Engineer
 
-_November 2016 - Present_
+_November 2016 - November 2019_
 
 Pegasus Solutions pays outage fees when its hotel reservation system experiences downtime, and the system was crashing more often as hotel data grew.  The sytem was writen in 32-bit pre-standard K&R C and was experiencing memory exhaustion.
 
@@ -72,6 +88,8 @@ This enabled sales to a large customer for the Linux system, and also helped oth
 - TDD (test-driven development) enthusiast
 - Git evangelist
 - grep/find/xargs devotee
+- Experienced with Arm Mbed and Zephyr RTOS embedded firmware
+- Kernel module and application development on Windows and Linux
 - Well-versed in LabVIEW and LabVIEW FPGA
 
 ## EDUCATION
