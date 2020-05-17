@@ -30,7 +30,7 @@ _Austin and San Antonio, TX_
 
 _November 2016 - November 2019_
 
-Pegasus Solutions pays outage fees when its hotel reservation system experiences downtime, and the system was crashing more often as hotel data grew.  The sytem was writen in 32-bit pre-standard K&R C and was experiencing memory exhaustion.
+Pegasus Solutions pays outage fees when its hotel reservation system experiences downtime, and the system was crashing more often as hotel data grew.  The system was written in 32-bit pre-standard K&R C and was experiencing memory exhaustion.
 
 - I ported the system (2+ million lines of code) to 64-bit ANSI C
 - I designed and implemented a shared memory manager to handle multiprocess shared memory configuration, creation, attachment, and removal.
