@@ -24,7 +24,7 @@ I write...
 
 ### [Pegasus Solutions](http://www.pegasus.io)
 
-_Austin and San Antonio, TX_
+_Remote_
 
 #### Senior Software Engineer
 
